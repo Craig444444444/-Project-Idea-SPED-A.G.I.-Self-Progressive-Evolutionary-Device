@@ -258,8 +258,3 @@ paths:
                 $ref: '#/components/schemas/ProcessingResult'
 ```
 
-Would you like me to:
-1. Create additional technical diagrams?
-2. Add more code examples?
-3. Create setup scripts?
-4. Add CI/CD configuration files?
