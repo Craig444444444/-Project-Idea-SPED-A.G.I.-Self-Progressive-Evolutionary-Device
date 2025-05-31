@@ -1,0 +1,32 @@
+# Core data manipulation and scientific computing
+numpy
+scipy
+pandas # Optional, but good for data handling if needed
+
+# For large language model (LLM) integration and local fine-tuning
+torch # or tensorflow, choose one depending on your preference for deep learning framework
+transformers # Hugging Face library for pre-trained models, essential for local LLMs
+langchain # As specified in your project idea for structured reasoning and memory
+openai # For interacting with OpenAI's API, if you use it
+
+# Utilities and general development
+tqdm # For progress bars (useful during training or long operations)
+python-dotenv # For loading environment variables (e.g., API keys)
+# Any other specific libraries your existing repos might rely on
+# For example, if 'QECA' uses a specific quantum library, add it here.
+# If 'AI-Thought-Evolution-Engine' relies on a specific graph library, add it.
+
+# Example placeholder for a hypothetical quantum library if QECA needs one:
+# qiskit
+# cirq
+
+# Example placeholder for a hypothetical graph library if AI-Thought-Evolution-Engine needs one:
+# networkx
+
+# For potential web app/GUI:
+# flask # If you build a simple web interface
+# streamlit # If you prefer a simpler, interactive web app for demonstration
+
+# Recommended for development and code quality (can be moved to requirements-dev.txt if desired)
+# black # Code formatter
+# flake8 # Linter
