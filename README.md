@@ -1,5 +1,5 @@
 ```markdown
-<div align="center">
+
 
 # 🧠 SPED-A.G.I.
 ### Self-Progressive Evolutionary Device with AQI
